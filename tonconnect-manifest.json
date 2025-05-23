@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/VS233/test",                        // required
-  "name": "SeaBattle_bot",                      // required
-  "iconUrl": "https://raw.githubusercontent.com/VS233/test/main/icon.png",               // required
-  "termsOfUseUrl": "https://example.com/terms",     // optional,,
-  "privacyPolicyUrl": "https://example.com/privacy" // optional
+  "url": "https://github.com/VS233/test",
+  "name": "SeaBattle_bot",
+  "iconUrl": "https://raw.githubusercontent.com/VS233/test/main/icon.png",
+  "termsOfUseUrl": "https://example.com/terms",
+  "privacyPolicyUrl": "https://example.com/privacy"
 }
