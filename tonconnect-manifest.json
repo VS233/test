@@ -1,6 +1,6 @@
 {
   "url": "https://github.com/VS233/test",                        // required
-  "name": "Морской бой NG",                      // required
+  "name": "SeaBattle_bot",                      // required
   "iconUrl": "https://raw.githubusercontent.com/VS233/test/main/icon.png",               // required
   "termsOfUseUrl": "https://example.com/terms",     // optional,,
   "privacyPolicyUrl": "https://example.com/privacy" // optional
